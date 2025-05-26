@@ -1,4 +1,4 @@
-# A Survey of Text Segmentation metrics
+# A Survey of Text Segmentation Metrics
 This repository contains the cod used to conduct the experiments in the paper `Text Segmentation Metrics: A Survey`. This README provides a brief description of the contents of this 
 repository, as well as some instructions on how to install the required dependencies to replicate the experiments conducted in the paper. 
 
